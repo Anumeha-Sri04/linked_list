@@ -1,2 +1,4 @@
-# reversing_ll
-In this i am reversing a linked list using the recursive method and also the iterative method.
+# linked_list
+In this i am making the basic commands in a linked list by making functions and creating an object and the same commands have also been made using collection framework.
+reversing a linked list using the recursive method and also the iterative method.
+
